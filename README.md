@@ -73,4 +73,4 @@ namespace Vehicle
 ## Output:
 ![](ee9.png)
 ## Result
-Thus C# program to print some messages using hierarchical inheritance is written and executed sucessfully
+Thus C# program to print some messages using hierarchical inheritance is written and executed sucessfully.
